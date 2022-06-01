@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Research Methods</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65357</md:content-id>
+  <md:title>Research Methods</md:title>
+  <md:abstract><list>
+<item>Differentiate between four kinds of research methods: surveys, field research, experiments, and secondary data analysis</item>
+<item>Understand why different topics are better suited to different research approaches</item>
+</list></md:abstract>
+  <md:uuid>c9552217-d417-49d2-8846-706119fe9b6d</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id2774799">In planning a research design, sociologists generally choose from four widely used methods of social investigation: survey, field research, experiment, and secondary data analysis (or use of existing sources). Their choice of the methods depends on several conditions, such as the limitation of time and budget, the type of their topic, the accessibility of the research target, and so on.</para><section id="fs-id1354839">
+    <title>Surveys</title>
+    <para id="import-auto-id1461933">As a research method, a <term id="import-auto-id2039965">survey</term> collects data from subjects who respond to a series of questions about attitudes and behaviors, often in the form of a questionnaire. The survey is one of the most widely used scientific research methods as it can be analyzed statistically. Also, the standard survey format allows participants a level of anonymity in which they can express personal ideas about sensitive matters, such as suicide, sexuality, and the like.</para><figure id="import-auto-id2621394"><media id="import-auto-id1352828" alt="A photo of a person's hand filling in a survey check box labeled 'No' with a pen.">
+        <image mime-type="image/png" src="../../media/CNX_Soc2e_Figure_02_02_003.jpg" width="350"/>
+      </media>
+      
+    <caption>Questionnaires are a common research method; the U.S. Census is a well-known example. (Photo courtesy of Kathryn Decker/flickr)</caption></figure><para id="import-auto-id1339070">Sociologists conduct surveys under controlled conditions for specific purposes. Surveys gather different types of information from people. While surveys are not great at capturing the ways people really behave in social situations, they are a great method for discovering how people feel and think—or at least how they say they feel and think. Surveys can track preferences for presidential candidates or reported individual behaviors (such as sleeping, driving, or texting habits) or factual information such as employment status, income, and education levels. </para><section id="eip-525"><title>Population and Sample--and Random Sample</title><para id="eip-516">A survey targets a specific <term id="import-auto-id2269226">population</term>, all people who share a given characteristic for the researcher to study. When the size of a population is too big, the researcher chooses to survey a small sector of a population called a <term id="import-auto-id1213338">sample</term>: that is, a manageable number of subjects that should <emphasis effect="italics">represent</emphasis> its own entire population. Okay, but how can it (a small number of subjects) represent its own ENTIRE population? 
+</para><para id="eip-185">The success of a study depends on how well the population is represented by the sample. For this, the researcher uses a <term id="import-auto-id1305852">random sample</term>, a method in which every person in a population has the same chance of being chosen in the sample. According to the laws of probability, random samples, as long as they are random samples, well represent the entire population. See below: an analogy of how a random sample works.</para></section><para id="eip-805"><title>1. Population, 2. Sample, 3. Random Sample, and 4. Analysis</title><media id="image" alt="large pot of soup">
+<image mime-type="image/png" src="../../media/large pot of soup-8c68.png" width="500"/>
+</media></para><list id="eip-470" list-type="enumerated" number-style="arabic"><title>As shown above,</title><item>A population can be likened to a large pot of soup.</item>
+<item>A sample, to a ladle of soup.</item>
+<item>Random sample, to stirring up the pot of soup.</item>
+<item>Analysis, to sipping the ladle of soup.</item></list><para id="eip-784">Through random sample, and only through it, the researcher can accurately report the taste of the entire soup, or the tendency of a large number of people (population) through a smaller size of sample.</para><para id="eip-501">Here is an example. The U.S. media outlets predict the presidential election, relying on their own surveys. In this case, the <term>population</term> consists of all American voters (231 million people). The typical number of voters who respond to the surveys is a little larger than 1,000. This collection of voters whose voice is directly studied is called a <term>sample</term>.  The question is, how can this small number of voters represent all American voters? Statistically saying, again, if the method of choosing the voters is <term>random sample</term>, it should be able to represent its population--although it's not easy, and some researchers fail, embarrassingly.</para><para id="eip-824">Here is an embarrassing example of a failed random sample. In 1936, a research institute predicted that the Republican candidate would win landslide for the presidential election, based on its own survey. The result was, however, the Democratic candidate won landslide.  What was wrong?  The survey collected opinions from people found in telephone books and car registration lists. Hey, who owned telephones or cars in 1936!? Only rich people!! Those who didn't own telephones or cars at that time didn't have "the same chance of being chosen in the sample," but they were a large part of the population having their own voice.</para><para id="import-auto-id1449759">An <term id="import-auto-id2100841">interview</term> is a one-on-one conversation between the researcher and the subject, and it is a way of conducting surveys on a topic. Interviews are similar to the short-answer questions on surveys in that the researcher asks subjects a series of questions. However, participants are free to respond as they wish, without being limited by predetermined choices. In the back-and-forth conversation of an interview, a researcher can ask for clarification, spend more time on a subtopic, or ask additional questions. In an interview, a subject will ideally feel free to open up and answer questions that are often complex. There are no right or wrong answers. The subject might not even know how to answer the questions honestly. </para><para id="import-auto-id2198132">Questions such as, “How did society's view of alcohol consumption influence your decision whether or not to take your first sip of alcohol?” or “Did you feel that the divorce of your parents would put a social stigma on your family?” involve so many factors that the answers are difficult to categorize. A researcher needs to avoid steering or prompting the subject to respond in a specific way; otherwise, the results will prove to be unreliable. And, obviously, a sociological interview is not an interrogation. The researcher will benefit from gaining a subject’s trust, from empathizing or commiserating with a subject, and from listening without judgment.</para></section>
+<section id="fs-id1406732">
+    <title>Field Research</title>
+    <para id="import-auto-id2325088">The work of sociology rarely happens in limited, confined spaces. Sociologists seldom study subjects in their own offices or laboratories. Rather, sociologists go out into the world. They meet subjects where they live, work, and play. <term id="import-auto-id2228580">Field research</term> refers to gathering <term id="import-auto-id2286984">primary data</term> from a natural environment without doing a lab experiment or a survey. It is a research method suited to an interpretive framework rather than to the scientific method. To conduct field research, the sociologist must be willing to step into new environments and observe, participate, or experience those worlds. In field work, the sociologists, rather than the subjects, are the ones out of their element. </para>
+    <para id="import-auto-id1385103">The researcher interacts with or observes a person or people and gathers data along the way. The key point in field research is that it takes place in the subject’s natural environment, whether it’s a coffee shop or tribal village, a homeless shelter or the DMV, a hospital, airport, mall, or beach resort.</para><figure id="import-auto-id1375944"><media id="import-auto-id1406893" alt="A man is shown taking notes outside a tent in the mountains.">
+        <image mime-type="image/png" src="../../media/Figure_02_02_03.jpg" width="250"/>
+      </media>
+      
+    <caption>Sociological researchers travel across countries and cultures to interact with and observe subjects in their natural environments. (Photo courtesy of IMLS Digital Collections and Content/flickr and Olympic National Park)</caption></figure><section id="fs-id1387353">
+    <title>Participant Observation</title>
+    <para id="import-auto-id1352744">In 2000, a comic writer named Rodney Rothman wanted an insider’s view of white-collar work. He slipped into the sterile, high-rise offices of a New York “dot com” agency. Every day for two weeks, he pretended to work there. His main purpose was simply to see whether anyone would notice him or challenge his presence. No one did. The receptionist greeted him. The employees smiled and said good morning. Rothman was accepted as part of the team. He even went so far as to claim a desk, inform the receptionist of his whereabouts, and attend a meeting. He published an article about his experience in <emphasis effect="italics">The New Yorker</emphasis> called “My Fake Job” (2000). Later, he was discredited for allegedly fabricating some details of the story and <emphasis effect="italics">The New Yorker</emphasis> issued an apology. However, Rothman’s entertaining article still offered fascinating descriptions of the inside workings of a “dot com” company and exemplified the lengths to which a sociologist will go to uncover material.</para><para id="import-auto-id1490888">Rothman had conducted a form of study called <term id="import-auto-id1652549">participant observation</term>, in which researchers join people and participate in a group’s routine activities for the purpose of observing them within that context. This method lets researchers experience a specific aspect of social life. A researcher might go to great lengths to get a firsthand look into a trend, institution, or behavior. Researchers temporarily put themselves into roles and record their observations. A researcher might work as a waitress in a diner, live as a homeless person for several weeks, or ride along with police officers as they patrol their regular beat. Often, these researchers try to blend in seamlessly with the population they study, and they may not disclose their true identity or purpose if they feel it would compromise the results of their research. </para><figure id="import-auto-id1450170"><media id="import-auto-id1148467" alt="Waitress serves customers in an outdoor café.">
+        <image mime-type="image/png" src="../../media/Figure_02_02_05.jpg" width="350"/>
+      </media>
+      
+    <caption>Is she a working waitress or a sociologist conducting a study using participant observation? (Photo courtesy of zoetnet/flickr)</caption></figure></section>
+</section>
+<section id="fs-id2729111">
+    <title>Experiments</title>
+    <para id="import-auto-id2347557">You’ve probably tested personal social theories. “If I study at night and review in the morning, I’ll improve my retention skills.” Or, “If I stop drinking soda, I’ll feel better.” If X, then Y. When you test your hypothetical assumption through an <term>experiment</term>, your results either prove or disprove it.</para><para id="import-auto-id1310502">There are two main types of experiments: lab-based experiments and natural or field experiments. In a lab setting, the research can be controlled so that perhaps more data can be recorded in a certain amount of time. In a natural or field-based experiment, the generation of data cannot be controlled but the information might be considered more accurate since it was collected without interference or intervention by the researcher.</para>
+    <para id="import-auto-id2105542">As a research method, either type of sociological experiment is useful for testing <emphasis effect="italics">if-then</emphasis> statements: <emphasis effect="italics">if</emphasis> a particular thing happens, <emphasis effect="italics">then</emphasis> another particular thing will result. To set up a lab-based experiment, sociologists create artificial situations that allow them to manipulate variables.</para>
+    <section id="eip-30"><title>A Typical Design of Experiments</title><para id="eip-819">A typical--that is, not every--experimental design separates participants into two groups. One is the <term>experimental group</term> and the other, the <term>control group</term>. All other things being as equal as possible, such as age, gender, and so on, there is only one difference between the two groups, the independent variable(s). That is, the experimental group is exposed to the independent variable(s), and the control group is not. If the independent variable (X) has an effect, then, there should be a difference between the two groups in the dependent variable (Y), in a while. 
+</para><para id="eip-356">A math tutoring program can be an example of the independent variable whose effects (math skills, the dependent variable) can be tested through an experiment. The experimental design is this. Children in the experimental group take the program, and those in the control group don't. In a while, if the children in the experimental group perform in math tests better than those in the control group, we can conclude that the program is functional, that is, if the program (X), then better math skills (Y).</para><para id="eip-749">Or some scientists conduct experiments to test if GMOs (genetically modified organisms) can cause cancer. Typically, they use mice, separating tens of them into, on the one hand, the experimental group and, on the other, the control group. Which group do you think gets GMOs? Oh, no, no, for this kind of experiments, humans cannot be used--although in the real world, we are actually getting lots of GMOs...</para></section></section>
+<section id="fs-id1495781">
+    <title>Secondary Data Analysis</title>
+    <para id="import-auto-id1262175">While sociologists often engage in original research studies, they also contribute knowledge to the discipline through <term id="import-auto-id2867777">secondary data analysis</term>. Secondary data doesn’t result from firsthand research collected from primary sources, but are the already completed work of other researchers. Sociologists might study works written by historians, economists, teachers, or early sociologists. They might search through periodicals, newspapers, or magazines from any period in history.</para></section>
+
+<section id="fs-id1313840" class="section-summary" type="section-summary">
+    <title>Summary</title>  
+    <para id="import-auto-id2738446">Sociological research is a fairly complex process. As you can see, a lot goes into even a simple research design. There are many steps and much to consider when collecting data on human behavior, as well as in interpreting and analyzing data in order to form conclusive results. Sociologists use scientific methods for good reason. The scientific method provides a system of organization that helps researchers plan and conduct the study while ensuring that data and results are reliable, valid, and objective.</para>
+    <para id="import-auto-id2856199">The many methods available to researchers—including experiments, surveys, field studies, and secondary data analysis—all come with advantages and disadvantages. The strength of a study can depend on the choice and implementation of the appropriate method of gathering research. Depending on the topic, a study might use a single method or a combination of methods. It is important to plan a research design before undertaking a study. The information gathered may in itself be surprising, and the study design should provide a solid framework in which to analyze predicted and unpredicted data.</para>
+
+   
+    
+    <table id="import-auto-id3070263" summary="Chart describing four methods of sociological research – survey, experiment, field work, secondary data analysis – and their implementations, advantages, and challenges."><title>Main Sociological Research Methods</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry align="center">Method</entry>
+            <entry align="center">Implementation</entry>
+            <entry align="center">Advantages</entry>
+            <entry align="center">Challenges</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Survey</emphasis></entry>
+            <entry>
+              <list id="import-auto-id3649750" list-type="bulleted">
+                <item>Questionnaires</item>
+                <item>Interviews</item>
+              </list>
+            </entry>
+            <entry>
+              <list id="import-auto-id1302674" list-type="bulleted">
+                <item>Yields many responses</item>
+                <item>Can survey a large sample</item>
+                <item>Quantitative data are easy to chart</item>
+              </list>
+            </entry>
+            <entry>
+              <list id="import-auto-id1982221" list-type="bulleted">
+                <item>Can be time consuming</item>
+                <item>Can be difficult to encourage participant response</item>
+                <item>Captures what people think and believe but not necessarily how they behave in real life</item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Field Work</emphasis></entry>
+            <entry>
+              <list id="import-auto-id2768302" list-type="bulleted">
+                <item>Observation</item>
+                <item>Participant observation</item>
+                <item>Ethnography</item>
+                <item>Case study</item>
+              </list>
+            </entry>
+            <entry><list id="eip-id1172297312315"><item>Yields detailed, accurate real-life information</item></list></entry>
+            <entry>
+              <list id="import-auto-id1813709" list-type="bulleted">
+                <item>Time consuming</item>
+                <item>Data captures how people behave but not what they think and believe</item>
+                <item>Qualitative data is difficult to organize</item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Experiment</emphasis></entry>
+            <entry><list id="eip-id1166523116482"><item>Deliberate manipulation of social customs and mores</item></list></entry>
+            <entry><list id="eip-id1166529938448"><item>Tests cause and effect relationships</item></list></entry>
+            <entry>
+              <list id="import-auto-id1323829" list-type="bulleted">
+                <item>Hawthorne Effect</item>
+                <item>Ethical concerns about people’s wellbeing</item>
+              </list>
+            </entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Secondary Data Analysis</emphasis></entry>
+            <entry>
+              <list id="import-auto-id1329179" list-type="bulleted">
+                <item>Analysis of government data (census, health, crime statistics)</item>
+                <item>Research of historic documents </item>
+              </list>
+            </entry>
+            <entry><list id="eip-id1166523122254"><item>Makes good use of previous sociological information</item></list></entry>
+            <entry>
+              <list id="import-auto-id1291696" list-type="bulleted">
+                <item>Data could be focused on a purpose other than yours</item>
+                <item>Data can be hard to find</item>
+              </list>
+            </entry>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup><caption>Sociological research methods have advantages and disadvantages.</caption>
+</table></section>
+
+    <section id="fs-id2739995" class="further-research" type="further-research">
+    <title>Further Research</title>
+    <para id="import-auto-id1359116">For information on current real-world sociology experiments, visit: <link url="http://openstaxcollege.org/l/Sociology-Experiments">http://openstaxcollege.org/l/Sociology-Experiments</link></para></section>
+
+<section id="fs-id1375053" class="references" type="references">
+    <title>References</title>  
+       <para id="eip-209">Butsch, Richard. 2000. <emphasis effect="italics">The Making of American Audiences: From Stage to Television, 1750–1990</emphasis>. Cambridge: Cambridge UP.</para><para id="eip-50">Caplow, Theodore, Louis Hicks, and Ben Wattenberg. 2000. “The First Measured Century: Middletown.” <emphasis effect="italics">The First Measured Century</emphasis>. PBS. Retrieved February 23, 2012 (<link url="http://www.pbs.org/fmc/index.htm">http://www.pbs.org/fmc/index.htm</link>).</para><para id="eip-641">Durkheim, Émile. 1966 [1897]. <emphasis effect="italics">Suicide</emphasis>. New York: Free Press.</para><para id="eip-345">Fenstermaker, Sarah. n.d. “Dorothy E. Smith Award Statement” <emphasis effect="italics">American Sociological Association</emphasis>. Retrieved October 19, 2014 (<link url="http://www.asanet.org/about/awards/duboiscareer/smith.cfm">http://www.asanet.org/about/awards/duboiscareer/smith.cfm</link>).</para><para id="eip-850">Franke, Richard, and James Kaul. 1978. “The Hawthorne Experiments: First Statistical Interpretation.” <emphasis effect="italics">American Sociological Review</emphasis> 43(5):632–643.</para><para id="eip-177">Grice, Elizabeth. “Cry of an Enfant Sauvage.” <emphasis effect="italics">The Telegraph</emphasis>. Retrieved July 20, 2011 (<link url="http://www.telegraph.co.uk/culture/tvandradio/3653890/Cry-of-an-enfant-sauvage.html">http://www.telegraph.co.uk/culture/tvandradio/3653890/Cry-of-an-enfant-sauvage.html</link>).</para><para id="eip-150">Heussenstamm, Frances K. 1971. “Bumper Stickers and Cops” <emphasis effect="italics">Trans-action: Social Science and Modern Society</emphasis> 4:32–33.</para><para id="eip-954">Igo, Sarah E. 2008. <emphasis effect="italics">The Averaged American: Surveys, Citizens, and the Making of a Mass Public</emphasis>. Cambridge, MA: Harvard University Press.</para><para id="eip-239">Lynd, Robert S., and Helen Merrell Lynd. 1959. <emphasis effect="italics">Middletown: A Study in Modern American Culture</emphasis>. San Diego, CA: Harcourt Brace Javanovich.</para><para id="eip-37">Lynd, Staughton. 2005. “Making Middleton.” <emphasis effect="italics">Indiana Magazine of History</emphasis> 101(3):226–238.</para><para id="eip-738">Mihelich, John, and John Papineau. Aug 2005. “Parrotheads in Margaritaville: Fan Practice, Oppositional Culture, and Embedded Cultural Resistance in Buffett Fandom.” <emphasis effect="italics">Journal of Popular Music Studies</emphasis> 17(2):175–202.</para><para id="eip-657">Pew Research Center. 2014. "Ebola Worries Rise, But Most Are 'Fairly' Confident in Government, Hospitals to Deal with Disease: Broad Support for U.S. Efforts to Deal with Ebola in West Africa." Pew Research Center for the People &amp; the Press, October 21. Retrieved October 25, 2014 (<link url="http://www.people-press.org/2014/10/21/ebola-worries-rise-but-most-are-fairly-confident-in-government-hospitals-to-deal-with-disease/">http://www.people-press.org/2014/10/21/ebola-worries-rise-but-most-are-fairly-confident-in-government-hospitals-to-deal-with-disease/</link>).</para><para id="eip-291">Rothman, Rodney. 2000. “My Fake Job.” Pp. 120 in <emphasis effect="italics">The New Yorker</emphasis>, November 27.</para><para id="eip-987">Social Sciences and Humanities Research Council of Canada. n.d. "Institutional Ethnography." Retrieved October 19, 2014 (<link url="http://web.uvic.ca/~mariecam/kgSite/institutionalEthnography.html">http://web.uvic.ca/~mariecam/kgSite/institutionalEthnography.html</link>).</para><para id="eip-528">Sonnenfeld, Jeffery A. 1985. “Shedding Light on the Hawthorne Studies.” <emphasis effect="italics">Journal of Occupational Behavior</emphasis> 6:125.</para></section>
+
+
+
+
+
+  </content>
+    <glossary>
+    <definition id="import-auto-id1588407"><term>case study</term> <meaning id="fs-id1327307">in-depth analysis of a single event, situation, or individual</meaning></definition>
+    <definition id="import-auto-id2109712"><term>content analysis</term> <meaning id="fs-id1335393">applying a systematic approach to record and value information gleaned from secondary data as it relates to the study at hand</meaning></definition>
+    <definition id="import-auto-id1294128"><term>correlation</term> <meaning id="fs-id2271783">when a change in one variable coincides with a change in another variable, but does not necessarily indicate causation</meaning></definition>
+    <definition id="import-auto-id1759657"><term>ethnography</term> <meaning id="fs-id2293258">observing a complete social setting and all that it entails</meaning></definition>
+    <definition id="import-auto-id2870472"><term>experiment</term> <meaning id="fs-id2195389">the testing of a hypothesis under controlled conditions</meaning></definition>
+    <definition id="import-auto-id1578321"><term>field research</term> <meaning id="fs-id1352591">gathering data from a natural environment without doing a lab experiment or a survey</meaning></definition>
+    <definition id="import-auto-id1653469"><term>Hawthorne effect</term> <meaning id="fs-id1662811">when study subjects behave in a certain manner due to their awareness of being observed by a researcher</meaning></definition>
+    <definition id="import-auto-id2615297"><term>interview</term> <meaning id="fs-id1188489">a one-on-one conversation between the researcher and the subject</meaning></definition>
+    <definition id="import-auto-id2910387"><term>nonreactive research</term> <meaning id="fs-id2691610">using secondary data, does not include direct contact with subjects and will not alter or influence people’s behaviors</meaning></definition>
+    <definition id="import-auto-id2269425"><term>participant observation</term> <meaning id="fs-id934355">when a researcher immerses herself in a group or social setting in order to make observations from an “insider” perspective</meaning></definition>
+    <definition id="import-auto-id1982501"><term>population</term> <meaning id="fs-id1555374">a defined group serving as the subject of a study</meaning></definition>
+    <definition id="import-auto-id1448286"><term>primary data</term> <meaning id="fs-id2329138">data that are collected directly from firsthand experience</meaning></definition>
+    <definition id="import-auto-id1665990"><term>quantitative data</term> <meaning id="fs-id1290357">represent research collected in numerical form that can be counted</meaning></definition>
+    <definition id="import-auto-id1343938"><term>qualitative data</term> <meaning id="fs-id2332419">comprise information that is subjective and often based on what is seen in a natural setting</meaning></definition>
+    <definition id="import-auto-id1515522"><term>random sample</term> <meaning id="fs-id2307079">a study’s participants being randomly selected to serve as a representation of a larger population</meaning></definition>
+    <definition id="import-auto-id2865767"><term>samples</term> <meaning id="fs-id2662096">small, manageable number of subjects that represent the population</meaning></definition>
+    <definition id="import-auto-id2692265"><term>secondary data analysis</term> <meaning id="fs-id1303943">using data collected by others but applying new interpretations</meaning></definition>
+    <definition id="import-auto-id1759662"><term>surveys</term> <meaning id="fs-id1373642">collect data from subjects who respond to a series of questions about behaviors and opinions, often in the form of a questionnaire</meaning></definition>
+    </glossary>
+</document>

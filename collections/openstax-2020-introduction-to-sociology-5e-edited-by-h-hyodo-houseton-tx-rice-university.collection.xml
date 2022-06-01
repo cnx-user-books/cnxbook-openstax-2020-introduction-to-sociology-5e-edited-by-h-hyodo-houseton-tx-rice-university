@@ -1,0 +1,768 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col30559</md:content-id>
+  <md:title>OpenStax. 2020. Introduction to Sociology, 5e. edited by H. Hyodo. Houseton, TX: Rice University.</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>df506808-1168-44b1-bba0-b26fc1c7114e</md:uuid>
+<md:slug>openstax-2020-introduction-to-sociology-5e-edited-by-h-hyodo-houseton-tx-rice-university</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m65306"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>An Introduction to Sociology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65420"/>
+        
+      
+    
+    
+      <col:module document="m65349"/>
+        
+      
+    
+    
+      <col:module document="m65317"/>
+        
+      
+    
+    
+      <col:module document="m65355"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sociological Research</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65351"/>
+        
+      
+    
+    
+      <col:module document="m65356"/>
+        
+      
+    
+    
+      <col:module document="m65357"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Culture</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65364"/>
+        
+      
+    
+    
+      <col:module document="m65412"/>
+        
+      
+    
+    
+      <col:module document="m65413"/>
+        
+      
+    
+    
+      <col:module document="m65576"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Socialization</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65436"/>
+        
+      
+    
+    
+      <col:module document="m65437"/>
+        
+      
+    
+    
+      <col:module document="m65578"/>
+        
+      
+    
+    
+      <col:module document="m65441"/>
+        
+      
+    
+    
+      <col:module document="m65443"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Society and Social Interaction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65577"/>
+        
+      
+    
+    
+      <col:module document="m65414"/>
+        
+      
+    
+    
+      <col:module document="m65416"/>
+        
+      
+    
+    
+      <col:module document="m65435"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Groups and Organization</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65444"/>
+        
+      
+    
+    
+      <col:module document="m65445"/>
+        
+      
+    
+    
+      <col:module document="m65469"/>
+        
+      
+    
+    
+      <col:module document="m65481"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Race and Ethnicity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65554"/>
+        
+      
+    
+    
+      <col:module document="m65563"/>
+        
+      
+    
+    
+      <col:module document="m65566"/>
+        
+      
+    
+    
+      <col:module document="m65571"/>
+        
+      
+    
+    
+      <col:module document="m65553"/>
+        
+      
+    
+    
+      <col:module document="m65561"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Social Stratification in the U.S.</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65556"/>
+        
+      
+    
+    
+      <col:module document="m65516"/>
+        
+      
+    
+    
+      <col:module document="m65517"/>
+        
+      
+    
+    
+      <col:module document="m65568"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Global Inequality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65560"/>
+        
+      
+    
+    
+      <col:module document="m65550"/>
+        
+      
+    
+    
+      <col:module document="m65552"/>
+        
+      
+    
+    
+      <col:module document="m65569"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Media and Technology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65491"/>
+        
+      
+    
+    
+      <col:module document="m65510"/>
+        
+      
+    
+    
+      <col:module document="m65511"/>
+        
+      
+    
+    
+      <col:module document="m65512"/>
+        
+      
+    
+    
+      <col:module document="m65513"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Deviance, Crime, and Social Control</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65555"/>
+        
+      
+    
+    
+      <col:module document="m65489"/>
+        
+      
+    
+    
+      <col:module document="m65490"/>
+        
+      
+    
+    
+      <col:module document="m65579"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gender, Sex, and Sexuality</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65557"/>
+        
+      
+    
+    
+      <col:module document="m65564"/>
+        
+      
+    
+    
+      <col:module document="m65549"/>
+        
+      
+    
+    
+      <col:module document="m65565"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Marriage and Family</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65559"/>
+        
+      
+    
+    
+      <col:module document="m65573"/>
+        
+      
+    
+    
+      <col:module document="m65572"/>
+        
+      
+    
+    
+      <col:module document="m65548"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Religion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65581"/>
+        
+      
+    
+    
+      <col:module document="m65585"/>
+        
+      
+    
+    
+      <col:module document="m65582"/>
+        
+      
+    
+    
+      <col:module document="m65583"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Education</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65588"/>
+        
+      
+    
+    
+      <col:module document="m65589"/>
+        
+      
+    
+    
+      <col:module document="m65591"/>
+        
+      
+    
+    
+      <col:module document="m65730"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Aging and the Elderly</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65558"/>
+        
+      
+    
+    
+      <col:module document="m65574"/>
+        
+      
+    
+    
+      <col:module document="m65567"/>
+        
+      
+    
+    
+      <col:module document="m65547"/>
+        
+      
+    
+    
+      <col:module document="m65570"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Government and Politics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65784"/>
+        
+      
+    
+    
+      <col:module document="m65881"/>
+        
+      
+    
+    
+      <col:module document="m65882"/>
+        
+      
+    
+    
+      <col:module document="m65883"/>
+        
+      
+    
+    
+      <col:module document="m65886"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Work and the Economy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65902"/>
+        
+      
+    
+    
+      <col:module document="m65918"/>
+        
+      
+    
+    
+      <col:module document="m65941"/>
+        
+      
+    
+    
+      <col:module document="m65953"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Social Movement and Social Change</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66063"/>
+        
+      
+    
+    
+      <col:module document="m66068"/>
+        
+      
+    
+    
+      <col:module document="m66069"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Health and Medicine</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65955"/>
+        
+      
+    
+    
+      <col:module document="m65956"/>
+        
+      
+    
+    
+      <col:module document="m65957"/>
+        
+      
+    
+    
+      <col:module document="m66014"/>
+        
+      
+    
+    
+      <col:module document="m66047"/>
+        
+      
+    
+    
+      <col:module document="m66050"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Population, Urbanization, and the Environment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66051"/>
+        
+      
+    
+    
+      <col:module document="m66052"/>
+        
+      
+    
+    
+      <col:module document="m66062"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
